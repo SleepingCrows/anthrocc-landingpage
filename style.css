@@ -33,9 +33,6 @@ body::before {
   background-image: url('img/sunset.jpg');
 }
 
-/*url('data:image/svg+xml;charset=utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20512%20512%22%20width%3D%22512%22%20height%3D%22512%22%20preserveAspectRatio%3D%22none%22%3E%3Cline%20x1%3D%22256%22%20y1%3D%220%22%20x2%3D%22512%22%20y2%3D%22256%22%20stroke%3D%22rgba(0,0,0,0.502)%22%20stroke-width%3D%229.01px%22%20vector-effect%3D%22non-scaling-stroke%22%20stroke-linecap%3D%22square%22%20%2F%3E%3Cline%20x1%3D%220%22%20y1%3D%22256%22%20x2%3D%22256%22%20y2%3D%22512%22%20stroke%3D%22rgba(0,0,0,0.502)%22%20stroke-width%3D%229.01px%22%20vector-effect%3D%22non-scaling-stroke%22%20stroke-linecap%3D%22square%22%20%2F%3E%3C%2Fsvg%3E'), */
-
-
 #wrapper {
   -webkit-overflow-scrolling: touch;
   display: flex;
